@@ -1,0 +1,19 @@
+C:\Users\jazhi\OneDrive\Documentos\TRABAJOS\PROGRA\EXAM_U2\EXAM_U2\bin\Debug\EXAM_U2.exe.config
+C:\Users\jazhi\OneDrive\Documentos\TRABAJOS\PROGRA\EXAM_U2\EXAM_U2\bin\Debug\EXAM_U2.exe
+C:\Users\jazhi\OneDrive\Documentos\TRABAJOS\PROGRA\EXAM_U2\EXAM_U2\bin\Debug\EXAM_U2.pdb
+C:\Users\jazhi\OneDrive\Documentos\TRABAJOS\PROGRA\EXAM_U2\EXAM_U2\obj\Debug\EXAM_U2.csprojAssemblyReference.cache
+C:\Users\jazhi\OneDrive\Documentos\TRABAJOS\PROGRA\EXAM_U2\EXAM_U2\obj\Debug\EXAM_U2.Form1.resources
+C:\Users\jazhi\OneDrive\Documentos\TRABAJOS\PROGRA\EXAM_U2\EXAM_U2\obj\Debug\EXAM_U2.Properties.Resources.resources
+C:\Users\jazhi\OneDrive\Documentos\TRABAJOS\PROGRA\EXAM_U2\EXAM_U2\obj\Debug\EXAM_U2.csproj.GenerateResource.cache
+C:\Users\jazhi\OneDrive\Documentos\TRABAJOS\PROGRA\EXAM_U2\EXAM_U2\obj\Debug\EXAM_U2.exe
+C:\Users\jazhi\OneDrive\Documentos\TRABAJOS\PROGRA\EXAM_U2\EXAM_U2\obj\Debug\EXAM_U2.pdb
+Z:\jazhi\Documents\UTLD\TSU\3 cuatrimestre\EXAM_U2\EXAM_U2\bin\Debug\EXAM_U2.exe.config
+Z:\jazhi\Documents\UTLD\TSU\3 cuatrimestre\EXAM_U2\EXAM_U2\bin\Debug\EXAM_U2.exe
+Z:\jazhi\Documents\UTLD\TSU\3 cuatrimestre\EXAM_U2\EXAM_U2\bin\Debug\EXAM_U2.pdb
+Z:\jazhi\Documents\UTLD\TSU\3 cuatrimestre\EXAM_U2\EXAM_U2\obj\Debug\EXAM_U2.csproj.AssemblyReference.cache
+Z:\jazhi\Documents\UTLD\TSU\3 cuatrimestre\EXAM_U2\EXAM_U2\obj\Debug\EXAM_U2.Form1.resources
+Z:\jazhi\Documents\UTLD\TSU\3 cuatrimestre\EXAM_U2\EXAM_U2\obj\Debug\EXAM_U2.Properties.Resources.resources
+Z:\jazhi\Documents\UTLD\TSU\3 cuatrimestre\EXAM_U2\EXAM_U2\obj\Debug\EXAM_U2.csproj.GenerateResource.cache
+Z:\jazhi\Documents\UTLD\TSU\3 cuatrimestre\EXAM_U2\EXAM_U2\obj\Debug\EXAM_U2.csproj.CoreCompileInputs.cache
+Z:\jazhi\Documents\UTLD\TSU\3 cuatrimestre\EXAM_U2\EXAM_U2\obj\Debug\EXAM_U2.exe
+Z:\jazhi\Documents\UTLD\TSU\3 cuatrimestre\EXAM_U2\EXAM_U2\obj\Debug\EXAM_U2.pdb
